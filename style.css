@@ -1,0 +1,114 @@
+.logo{
+    width:  50%;
+    height: 50%;
+    
+    padding-top: 11px;
+    margin-left: 250%;
+
+}
+h1{
+    font-size: 10%;
+    margin-bottom: .5rem;
+    font-weight: 300;
+    line-height: 3.2;
+    margin-left: 990px;
+}
+.logo2{
+    width:  19%;
+    height: 50%;
+    margin-right: 994px;
+   
+}
+.d-block w-100{
+    width: 70%;
+}
+
+
+.container1 .about{
+    
+    
+    width: 2665px;
+    margin-top: 45px;
+    margin-left: 165px;
+    
+}
+.about h4{
+    font-size: 4.5rem;
+}
+.about h3{
+    font-size: 7.6rem;
+}
+
+.sidebar{
+    padding: 6px 727px;
+    margin: 40px 500px;
+    font-size: 4.7rem;
+    display: flex;
+    list-style: none;
+
+    text-decoration-color: black;
+    text-decoration-line: none;
+    
+
+}
+
+.container li{
+    /* display: flex; */
+    width: 100%;
+    
+}
+.footer{
+    padding: 300px;
+    padding-left: 250px;
+    padding-top: 379px;
+}
+.footer h5{
+    font-size: 9.5rem;
+    font-weight: bold;
+}
+.footer p{
+    font-size: 4.5rem;
+    padding: 170px;
+    padding-left: 0px;
+}
+
+
+.footer .table1{
+    margin-top: -649px;
+    padding-left: 2200px;
+}
+.table1 h6{
+    font-size: 9rem;
+    font-weight: bold;
+}
+.table1 li{
+    font-size: 3.6rem;
+}
+.footer .table2{
+    margin-top: -574px;
+    padding-left: 3500px;
+}
+.table2 h7{
+    font-size: 9rem;
+    font-weight: bold;
+}
+.table2 li{
+    font-size: 3.6rem;
+}
+.end p{
+    text-align: center;
+    text-decoration-color: black;
+    font-size: 4.5rem;
+    margin-bottom: 143px;
+}.noti{
+    margin-left: 2959px;
+    margin-top: -755px;
+}
+.noti p{
+    font-size: 4.5rem;
+}
+.noti .heaad{
+    font-size: 4.5rem;
+}
+
+
